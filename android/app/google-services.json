@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "77939457258",
+    "firebase_url": "https://pharmacies-f20f5-default-rtdb.firebaseio.com",
+    "project_id": "pharmacies-f20f5",
+    "storage_bucket": "pharmacies-f20f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77939457258:android:9de66fbb61d2e2426aeb93",
+        "android_client_info": {
+          "package_name": "com.example.vidbusters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77939457258-0lh6gn5a52p55j204ndilb20db0k18cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5dURG6YXlmGr9v0kS-WvxGEeFAX2OmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77939457258-0lh6gn5a52p55j204ndilb20db0k18cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
